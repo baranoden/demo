@@ -1,28 +1,3 @@
 {
     "first_name": "baran",
-    "last_name": "ö",
-    "email": "dkfjdkf@gmail.com",
-    "groups": [1,2],
-    "permissions": {
-        "assigned_permissions": [
-        {
-            "id": 34,
-            "name": "p_add_attribute"
-        },
-        {
-            "id": 39,
-            "name": "p_add_campaign"
-        }
-    ],
-    "not_assigned_permissions": [
-        {
-            "id": 54,
-            "name": "add_category_type"
-        },
-        {
-            "id": 94,
-            "name": "add_channel"
-        },         
-    ]
-        }
 }
