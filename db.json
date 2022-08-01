@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "first_name": "baran",
+    "last_name": "ö",
+    "email": "dkfjdkf@gmail.com",
+    "groups": [1,2],
+    "permissions": {
+        "assigned_permissions": [
+        {
+            "id": 34,
+            "name": "p_add_attribute"
+        },
+        {
+            "id": 39,
+            "name": "p_add_campaign"
+        }
+    ],
+    "not_assigned_permissions": [
+        {
+            "id": 54,
+            "name": "add_category_type"
+        },
+        {
+            "id": 94,
+            "name": "add_channel"
+        },         
+    ]
+        }
 }
